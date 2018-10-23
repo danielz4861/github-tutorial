@@ -21,19 +21,19 @@ Git takes different versions of code but it doesn't require Github. However, Git
 
 --- 
 ### Post Account setup:
-   1.  On the top right corner, clikc on the settings option
+   1.  On the top right corner, click on the settings option
    2.  Then click on SSH and GPG keys
    3.  After you clicked on the SSH and GPG option, you'll then click on the green that says, **New SSH Key**
    4.  Next go to cloud9 home page and click on the gear icon located at the top right 
    5.  Click on the SSH tab on the left side bar, or [click here](https://c9.io/account/ssh)
    6.  Copy all the information that is inside the first box
-   7.  Lastly go back to your Github SSH and paste it into the empty box.
+   7.  Lastly, go back to your Github SSH and paste it into the empty box.
     
 ---
 #### Repository Setup
 1. [Sign in to Github account](https://github.com/login)
 2. Click on the green button that says _**New Repository**_
-3. Under _**Repository name**_ enter a name that you would like to name your repository
+3. Under _**Repository name**_ enter a name that you would like to name your repository. It has to be the same as your file in c9
 4. Select a _**Public**_ or _**Private**_ repository 
 5. After selecting your preferences for your repository, click on _**Initialize this repository with a README**_
 6. Then the _**Create repository**_ will turn green and click on it to create your repository
