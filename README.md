@@ -43,7 +43,7 @@ Git takes different versions of code but it doesn't require Github. However, Git
 
 **Clone** - Cloning is basically making a copy of your remote into your workspace by entering ```git clone (URL)```     
 
-**Pull Request** - Pull request is basically asking another programmer to have permission to push their Github repository. To start you have to do fork and clone from that persons repository. After making all the changes that you would like to do, you would have to ```git commit -m "message"``` and ```git push``` into your local repository.    
+**Pull Request** - Pull request is basically asking another programmer to have permission to push their Github repository. To start you have to do fork and clone from that persons repository. After making all the changes that you would like to do, you would have to ```git commit -m "message"``` and ```git push``` into your local repository.      
 
 **Pull** - This will take all the changes that have been made and uploads it to the local repository.
 
